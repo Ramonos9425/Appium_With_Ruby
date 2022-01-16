@@ -1,0 +1,5 @@
+[caps]
+automationName = "UIAutomator2"
+platformName = "Android"
+deviceName = "Android Emulator"
+app = "C:\\qaninja\\twp-cucumber-ruby-mobile\\app\\twp.apk"
